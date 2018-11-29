@@ -1,0 +1,28 @@
+.list-wrap{
+    border-top:1px solid #f00;
+    margin-top: 10px;
+}
+input{
+    margin: 5px;
+    outline: none;
+    border: none;
+    border:1px solid #000;
+}
+label{
+    font-size: 15px;
+}
+.list-content li{
+    float: left;
+    width: 80%;
+    margin-left: 20px;
+}
+.list-content button{
+    float: right;
+    width:20%;
+    margin-right: 10px;
+}
+.list-content{
+    min-height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #000;
+}
